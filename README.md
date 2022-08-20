@@ -1,9 +1,4 @@
 # GenshinProxy
-
-# 2.8 目前未解决4214的问题，请耐心等待！
-
-# 2.8 the problem of error code 4214 has not been solved at present, please wait patiently!
-
 # 使用教程
 
 有 Xposed 环境请使用 `GenshinProxy-release.apk` 不支持 `EDXposed & 原版Xposed` 只支持 `LSPosed`
